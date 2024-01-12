@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tushar Mohite
 =====================================================================================================================================
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*NgUtI3tYLhuq5Vy0.gif">
 
 Software Test Engineer
 ----------------------
